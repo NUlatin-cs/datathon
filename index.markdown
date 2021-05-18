@@ -4,6 +4,8 @@
 
 layout: home
 ---
+
+# Northwestern Latin@CS Datathon 2021
 ## *September 16-18*
 
 ---
