@@ -6,7 +6,7 @@ layout: home
 title: Northwestern Latin@CS Datathon 2021
 ---
 
-## *September 16-18* Hosted by Northwesten's Latin@CS
+## *September 16-18* Hosted by Northwesten's Latin@CS and nodi
 
 ---
 
