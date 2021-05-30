@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Northwestern Latin@CS Datathon 2021
+title: Northwestern Latin@CS and nodi Datathon 2021
 ---
 
 ## *September 16-18* Hosted by Northwesten's Latin@CS and nodi
