@@ -12,6 +12,13 @@ Short description on Latin@CS, link to Latin@CS website
 
 ---
 
+
+### **About nodi**
+
+Short description on nodi, link to nodi website
+
+---
+
 ### **Theme**
 With the rise of data and the prevalence of its importance in tech Latin@CS has set forward an initiative to help its community move forward in the world of data. By hosting a datathon we hope to encourage our community to explore what Northwestern looks like from the data perspective. The theme for this year is:   **Data Journalism. investigate what stories can be told from the data reported from Northwestern on an annual basis, and to investigate what assumptions and biases are present in the data.** Data is important; however, responsible use of data is equally as important. We hope to foster insightful conversations, stories, and realizations through our competition while also making competitors think about the limitations that the data has on their work. 
 
